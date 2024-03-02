@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate Network Technology Student from Carleton University!<br>
+A passionate 4th year Network Technology Student from Carleton University!<br>
 
 
 ## 🌐 Socials:
