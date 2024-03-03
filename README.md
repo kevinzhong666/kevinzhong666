@@ -70,7 +70,7 @@
 <br>
 <p align="center"> 
 
-<img src="..." alt="ibm" width="100%">
+<img src="/Users/kevinzhong/Desktop/resumes/certs" alt="Security+" width="100%">
 
 </p>
 
