@@ -55,7 +55,7 @@
 <br>
 <p align="center">
   <img src="https://stats.justsong.cn/api/github/?username=kevinzhong666&theme=prussian" />
-  <img src="https://stats.justsong.cn/api/leetcode/?username=kevinzhong666&theme=prussian" />
+  <img src="https://stats.justsong.cn/api/leetcode/?username=zhongkevin710@gmail.com&theme=prussian" />
   <img src="https://github-readme-stats.vercel.app/api?username=kevinzhong666&theme=prussian&hide_border=false&include_all_commits=true&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinzhong666&theme=prussian&hide_border=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinzhong666&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
