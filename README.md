@@ -42,7 +42,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   
-  [(https://github-readme-activity-graph.vercel.app/graph?username=kevinzhong666&theme=vue)](https://github.com/kevinzhong666/github-readme-activity-graph)
+  ![Snake animation](https://github.com/kevinzhong666/kevinzhong666/output/github-contribution-grid-snake.svg)
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kevinzhong666/kevinzhong666/output/github-contribution-grid-snake.svg" /> 
 
