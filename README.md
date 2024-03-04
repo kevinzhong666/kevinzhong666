@@ -40,8 +40,6 @@
 ##### Multilingual Proficiency:
 ![English](https://img.shields.io/badge/-English-F9F8F3?style=flat-square)
 ![Mandarin](https://img.shields.io/badge/-Mandarin-DCE0E8?style=flat-square)
-![Cantonese](https://img.shields.io/badge/-Cantonese-E7E2E8?style=flat-square)
-![Spanish](https://img.shields.io/badge/-Spanish-FDEEF4?style=flat-square)
 
 <br/>
 <hr/>
