@@ -65,7 +65,7 @@
 <br>
 <p align="center"> 
 
-<img src="/Users/kevinzhong/Desktop/resumes/certs" alt="Security+" width="100%">
+<img src="/Users/kevinzhong/Desktop/resumes/certs/CompTIA Security+ ce certificate.pdf" alt="Security+" width="100%">
 
 </p>
 
