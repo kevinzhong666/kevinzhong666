@@ -39,16 +39,6 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  
-  ![Snake animation](https://github.com/kevinzhong666/kevinzhong666/output/github-contribution-grid-snake.svg)
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kevinzhong666/kevinzhong666/output/github-contribution-grid-snake.svg" /> 
-
-  <br/><br/><br/>
-</div>
-
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
