@@ -65,7 +65,7 @@
 <br>
 <p align="center"> 
 
-<img src="CompTIA Security+ ce certificate.pdf" alt="Security+" width="100%">
+<img src="https://github.com/kevinzhong666/kevinzhong666/assets/81261168/2449704c-289c-484a-9682-201ba15565c4" alt="Security+" width="100%">
 
 </p>
 
