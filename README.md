@@ -66,7 +66,7 @@
 <p align="center"> 
 
 <img src="https://github.com/kevinzhong666/kevinzhong666/assets/81261168/2449704c-289c-484a-9682-201ba15565c4" alt="Security+" width="100%">
-<img src="(https://github.com/kevinzhong666/kevinzhong666/assets/81261168/0cd175e1-9a3d-4686-a2d7-4f032e5d10a7)" alt="Security+" width="100%">
+<img src="https://github.com/kevinzhong666/kevinzhong666/assets/81261168/0cd175e1-9a3d-4686-a2d7-4f032e5d10a7" alt="Security+" width="100%">
 </p>
 
  <hr/>
