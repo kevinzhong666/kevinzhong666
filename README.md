@@ -64,7 +64,11 @@
 <p align="center"> 
 
 <img src="https://github.com/kevinzhong666/kevinzhong666/assets/81261168/2449704c-289c-484a-9682-201ba15565c4" alt="Security+" width="100%">
-<img src="https://github.com/kevinzhong666/kevinzhong666/assets/81261168/0cd175e1-9a3d-4686-a2d7-4f032e5d10a7" alt="Security+" width="100%">
+<img width="764" alt="image" src="https://github.com/kevinzhong666/kevinzhong666/assets/81261168/124fc5f9-3440-42c4-acac-0a7a89a91c4d">
+<img src="https://github.com/kevinzhong666/kevinzhong666/assets/81261168/3b6f10b1-a743-4131-aa59-2c5409a14ce2" alt="AWS+" width="90%">
+<img width="434" alt="image" src="https://github.com/kevinzhong666/kevinzhong666/assets/81261168/8db9e351-2d94-47e6-b532-6b0cf18c22cf">
+
+
 </p>
 
  <hr/>
