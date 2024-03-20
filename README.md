@@ -11,7 +11,7 @@
  
  🔭 I’m currently living in **Canada** 🇨🇦
  
- 🌱 I’m currently pursuing **Microsoft Azure Fundamentals Certification**
+ 🌱 I’m currently pursuing **CCNA**
 
 💬 Ask me about **Python, Java, C++... or anything [here](https://github.com/kevinzhong666/kevinzhong666/issues)**
 
